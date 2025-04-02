@@ -55,7 +55,7 @@ term (up to a line of text)
 next term
    Description.
 
-.. image:: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1akahKS3cZYr3kWEEAoeuBgf26-7H1xUpA&s
+.. image:: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/216bf209-6112-48d1-a017-56e99bf4a2aa/dfw38to-36a427f9-3076-4f21-9fa0-27324bb7ebd9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxNmJmMjA5LTYxMTItNDhkMS1hMDE3LTU2ZTk5YmY0YTJhYVwvZGZ3Mzh0by0zNmE0MjdmOS0zMDc2LTRmMjEtOWZhMC0yNzMyNGJiN2ViZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ToIFezYHp8KgH2e53t397fautW1IcPp3uZAys-Ak1jw
   :width: 400
   :alt: pibble
 
