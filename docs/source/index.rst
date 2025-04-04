@@ -21,9 +21,9 @@ tekst tekst tekst tekst tekst
 
        print("Help")
 
-tekst z linkiem `a link`_.
+tekst z `linkiem`_.
 
-.. _a link: https://www.youtube.pl
+.. _linkiem: https://www.youtube.pl
 
 .. _my-reference-label:
 
