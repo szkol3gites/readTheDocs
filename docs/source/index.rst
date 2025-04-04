@@ -15,13 +15,7 @@ tekst tekst tekst tekst tekst
 """"""""""""
 .. note:: notatkowy akapit(note)
 
-   This is the second line of the first paragraph.
-
-   - The note contains all indented body elements
-     following.
-   - It includes this bullet list.
-.. TIP::
-   podpowiedziowy akapit (Tip)
+.. TIP:: podpowiedziowy akapit (Tip)
 
 .. code-block::
    :caption: A cool example
