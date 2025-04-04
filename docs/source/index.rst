@@ -18,13 +18,8 @@ tekst tekst tekst tekst tekst
 .. TIP:: podpowiedziowy akapit (Tip)
 
 .. code-block::
-   :caption: A cool example
 
-       The output of this line starts with four spaces.
-
-.. code-block::
-
-       The output of this line has no spaces at the beginning.
+       print("Help")
 
 This is a paragraph that contains `a link`_.
 
