@@ -21,9 +21,9 @@ tekst tekst tekst tekst tekst
 
        print("Help")
 
-This is a paragraph that contains `a link`_.
+tekst z linkiem `a link`_.
 
-.. _a link: https://www.debian.org/index.pl.html
+.. _a link: https://www.youtube.pl
 
 .. _my-reference-label:
 
@@ -34,8 +34,6 @@ This is a paragraph that contains `a link`_.
 1. to lista numerowana
 2. z dwoma punktami
 
-#. to lista numerowana
-#. z dwoma punktami
 
 term (up to a line of text)
    Definition of the term, which must be indented
