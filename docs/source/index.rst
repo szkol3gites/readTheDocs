@@ -11,10 +11,9 @@ Header #4
 ----------
 
 """"""""""""
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+tekst tekst tekst tekst tekst
 """"""""""""
-.. note::
-   i like pancakes
+.. note:: notatkowy akapit(note)
 
    This is the second line of the first paragraph.
 
@@ -22,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
      following.
    - It includes this bullet list.
 .. TIP::
-   Don't use Windows. Get your Linux operating system today!
+   podpowiedziowy akapit (Tip)
 
 .. code-block::
    :caption: A cool example
