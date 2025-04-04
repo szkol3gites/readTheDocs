@@ -41,11 +41,11 @@ This is a paragraph that contains `a link`_.
 * It has two items, the second
   item uses two lines.
 
-1. This is a numbered list.
-2. It has two items too.
+1. to lista numerowana
+2. z dwoma punktami
 
-#. This is a numbered list.
-#. It has two items too.
+#. to lista numerowana
+#. z dwoma punktami
 
 term (up to a line of text)
    Definition of the term, which must be indented
