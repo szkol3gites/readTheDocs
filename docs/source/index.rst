@@ -35,23 +35,17 @@ tekst z `linkiem`_.
 2. z dwoma punktami
 
 
-term (up to a line of text)
-   Definition of the term, which must be indented
-
-   and can even consist of multiple paragraphs
-
-next term
-   Description.
+Pojecie
+       Definicja
 
 .. image:: https://eloblog.pl/wp-content/uploads/2015/10/malpa-selfie.jpg
   :width: 400
   :alt: pibble
 
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | beep       | beep     | boop     |
-+------------------------+------------+----------+----------+
++-------------+------------+
+| Kolumna 1   | Kolumna 2  |
++=============+============+
+| Wiersz 1    | Wiersz 1   |
++-------------+------------+
+| Wiersz 2    | Wiersz 2   |
++-------------+------------+
