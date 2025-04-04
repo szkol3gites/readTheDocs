@@ -37,9 +37,9 @@ This is a paragraph that contains `a link`_.
 
 .. _my-reference-label:
 
-* This is a bulleted list.
-* It has two items, the second
-  item uses two lines.
+* lista nienumerowana
+* lista dwu punktowa 
+  dwu liniowa
 
 1. to lista numerowana
 2. z dwoma punktami
